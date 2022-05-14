@@ -34,4 +34,6 @@ s.sendto(ip.get_packet(), (dst, 0))
 
 #Please note you need to run the program as follows, and also you need to be a root user to do so
 # ./ipspoof.py 192.168.2.1 127.0.0.1
+# ./ipspoof.py 73.210.106.62
+
 
